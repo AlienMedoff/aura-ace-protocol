@@ -8,7 +8,11 @@ Institutional-grade AI-Gateway for micro-trading liquidity on TON. Built with "F
 ![Security](https://img.shields.io/badge/Security-Sentinel%20Roles%20%7C%20Timelock-red?style=flat-square)
 
 ## 💎 Project Overview
-"AURA ACE" is a sovereign L2-gateway designed to bridge high-probability AI signals with on-chain liquidity providers (specifically Storm Trade). 
+The Oracle Engine:
+​Multi-Factor Analysis: Signals are generated via a proprietary AI engine analyzing order book depth, social sentiment, and historical volatility.
+​Probabilistic Filtering: Only signals with a confidence score > 85% are pushed to the gateway.
+​Execution Integrity: Each signal is cryptographically signed before entering the contract to ensure it originated from the AURA ACE core.
+"AURA ACE" is a sovereign AI-Oracle & Execution Gateway designed to bridge high-probability AI signals with on-chain liquidity providers (specifically Storm Trade). 
 
 The protocol is optimized for the $1 retail segment, allowing millions of Telegram users to trade via a gamified, high-frequency interface while maintaining institutional-grade security.
 
